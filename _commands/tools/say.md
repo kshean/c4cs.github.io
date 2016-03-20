@@ -4,10 +4,10 @@
 say
 -------
 
-Short description of the command
+Converts text to audible speech
 
 ~~~ bash
-*short* example of command usage and output
+say hello world
 ~~~
 
 <!--more-->
